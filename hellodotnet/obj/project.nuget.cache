@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRsOcaxDOQyWLhWDTIz8ewWYi2XVJHwvVcreRuwdpSaQoeEVG90M95w6LApO3rVLwjBDkd3rErm9pJR0pF2m8A==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\hellodotnet\\hellodotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.net.sdk.razor\\3.1.12\\microsoft.net.sdk.razor.3.1.12.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
